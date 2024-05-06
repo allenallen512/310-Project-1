@@ -1,4 +1,4 @@
-Desktop application for a store management system. 
+Desktop application for a store management system. Connects to local MySQL database. Project has since been converted to connect with MongoDB if needed.
 
 This system provides the following main functions for its users:
 
